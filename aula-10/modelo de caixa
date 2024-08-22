@@ -1,0 +1,25 @@
+                   padding
+
+trazaendo para o português quer dizer enchimento,
+fica localizado ao redor do conteúdo é o espaçamento interno.
+            15px 
+        -----------
+       |           | 
+       |           |  10px
+10px   |           |    
+        -----------   
+           15px
+
+                    mirgin
+é o espaçamento entre os elementos ou seja entre caixas ou tags.
+
+<---->
+<---------->
+
+ content 
+é o conteúdo.
+
+padding: ;
+margin: ;
+content: ;
+           
